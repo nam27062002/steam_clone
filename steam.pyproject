@@ -1,6 +1,10 @@
 {
     "files": [
         "main.py",
-        "main.qml"
+        "main.qml",
+        "resources/colors/Colors.qml",
+        "src/components/buttons/baseButton.qml",
+        "src/components/buttons/closeButton.qml",
+        "src/pages/login.qml"
     ]
 }
